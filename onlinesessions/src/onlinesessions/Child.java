@@ -10,9 +10,9 @@ public class Child extends Parent {
 	public static void main(String[] args) {
 
 
-		Child c = new Child();
+		Child c = new Child();// obj
 		c.m1();
-		c.m2();
+		c.m2();// added the comment
 
 	}
 }
