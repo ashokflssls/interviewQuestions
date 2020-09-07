@@ -12,7 +12,7 @@ public class Child extends Parent {
 
 		Child c = new Child();
 		c.m1();
-		c.m2();
+		c.m2();// added the comment
 
 	}
 }
