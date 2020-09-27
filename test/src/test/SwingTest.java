@@ -14,7 +14,7 @@ public class SwingTest {
 		Button b = new Button(); //creating button
 		
 		f.add(b);
-		System.out.println("adding button on Xyz Branch addng tetsdfst");
+		System.out.println("adding button on Xyz Branch addng tetsdfst.");
 
 	}
 
