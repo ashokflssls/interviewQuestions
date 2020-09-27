@@ -16,7 +16,7 @@ public class Test2 {
 			list2.add(iterator.next());
 			//System.out.println(iterator.next());
 		}
-		System.out.println("end of  while loop");
+		System.out.println("end of  while loop changed");
 		return list2;
 
 	}
