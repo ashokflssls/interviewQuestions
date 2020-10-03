@@ -40,5 +40,18 @@ public class Test {
 		System.out.println("End of main class");
 
 	}
+	
+	public void m1(){
+		int a=10;
+		Test2 t2= new Test2();
+		t2.m2();
+		try {
+		System.out.println("yes:"+ (10/0));
+	} catch (Exception e) {
+		e.printStackTrace();
+		}
+		
+		
+	}
 
 }

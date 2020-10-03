@@ -3,19 +3,20 @@ package test;
 import java.awt.Button;
 import java.awt.Frame;
 
+import org.eclipse.swt.widgets.Shell;
+
 public class SwingTest {
 
 	public static void main(String[] args) {
 
-		Frame f = new Frame();
-
-		f.setVisible(true);
-
-		Button b = new Button(); //creating button
+	
+		Shell shell =  new Shell();
 		
-		f.add(b);
-		System.out.println("adding button on Xyz Branch addng tetsdfst.");
+	//	shell.setBounds(100, 200, 600, 500);
 
+		
+		
+		
 	}
 
 }
